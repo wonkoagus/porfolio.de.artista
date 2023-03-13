@@ -166,7 +166,7 @@ body {
 .galeria-container-trabajos{
   
   display:grid;
-  padding: 20px;
+  padding: 5px;
   grid-gap:10px;
   width: 100%; 
   grid-template-columns: repeat(1, 1fr);
